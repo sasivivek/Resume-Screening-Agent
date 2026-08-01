@@ -1,0 +1,61 @@
+================================================================================
+TECHFLOW SOLUTIONS - JOB OPENING
+================================================================================
+
+Position: Python Backend Developer
+Location: Austin, TX (Hybrid)
+Job Type: Full-Time
+Experience Level: Mid-Level (3+ Years)
+
+--------------------------------------------------------------------------------
+ABOUT US
+--------------------------------------------------------------------------------
+TechFlow Solutions is a fast-growing SaaS provider delivering high-performance enterprise data integration and analytics platforms. We serve over 500 enterprise clients globally, empowering them with real-time data automation and seamlessly connected software ecosystems. Our engineering culture values technical excellence, collaborative problem-solving, code readability, and continuous learning.
+
+--------------------------------------------------------------------------------
+ROLE SUMMARY
+--------------------------------------------------------------------------------
+We are seeking an experienced and passionate Python Backend Developer to join our core infrastructure engineering team. In this role, you will design, build, and maintain high-throughput backend services and RESTful APIs that power TechFlow's flagship software product. You will work closely with frontend engineers, product managers, and cloud architects to build scalable, resilient, and highly available software applications.
+
+--------------------------------------------------------------------------------
+RESPONSIBILITIES
+--------------------------------------------------------------------------------
+- Design, architect, and develop scalable backend services and microservices in Python.
+- Implement robust, secure, and well-documented REST APIs for web and mobile frontends.
+- Write clean, maintainable, modular, and thoroughly tested code following modern Python standards (PEP 8).
+- Collaborate closely with frontend developers, product teams, and DevOps engineers to integrate client-facing features.
+- Design, optimize, and maintain relational database schemas, complex SQL queries, and ORM models in PostgreSQL.
+- Write comprehensive unit, integration, and end-to-end tests to maintain high code reliability and test coverage.
+- Actively participate in peer code reviews, architectural discussions, and technical mentoring.
+- Diagnose, troubleshoot, and optimize application performance, query latency, and system bottlenecks.
+
+--------------------------------------------------------------------------------
+REQUIREMENTS
+--------------------------------------------------------------------------------
+- 3+ years of professional software engineering experience in backend development.
+- Strong proficiency in Python and web development frameworks, particularly Django or Django REST Framework (DRF).
+- Extensive hands-on experience designing and consuming REST APIs.
+- Production experience with relational databases, specifically PostgreSQL (schema design, query optimization, indexing).
+- Proficiency with Git version control and collaborative GitHub workflows (pull requests, branching strategies).
+- Solid experience writing automated test suites using frameworks such as pytest or unittest.
+- Bachelor's degree in Computer Science, Software Engineering, or a closely related technical field (or equivalent practical experience).
+
+--------------------------------------------------------------------------------
+NICE TO HAVE (PREFERRED SKILLS)
+--------------------------------------------------------------------------------
+- Experience containerizing applications with Docker and managing multi-container setups.
+- Experience with AWS cloud infrastructure (EC2, S3, AWS Lambda, RDS).
+- Familiarity with Redis for caching and Celery for asynchronous background task queues.
+- Hands-on experience with CI/CD pipelines (GitHub Actions, GitLab CI, or Jenkins).
+- Familiarity with container orchestration systems like Kubernetes.
+
+--------------------------------------------------------------------------------
+BENEFITS & PERKS
+--------------------------------------------------------------------------------
+- Competitive salary ($115,000 - $145,000) + equity options.
+- Health, Dental, and Vision insurance with 90% company coverage.
+- 401(k) matching up to 4%.
+- Flexible hybrid work arrangement (2 days remote per week).
+- $2,000 annual learning & development budget for conferences, courses, and certifications.
+- Generous PTO (20 paid vacation days + 10 company holidays).
+================================================================================

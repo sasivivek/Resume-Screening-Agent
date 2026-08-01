@@ -1,0 +1,47 @@
+================================================================================
+EMILY CHEN
+================================================================================
+Email: emily.chen@email.com | Phone: (555) 678-9012
+LinkedIn: linkedin.com/in/emilychen-math | GitHub: github.com/emilychen-dev
+Location: Boston, MA
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Enthusiastic Junior Software Engineer with 2.5 years of experience in backend development 
+using Python and Flask. Strong analytical and mathematical problem-solving foundation. 
+Experienced with MongoDB document databases, REST API creation, and basic Docker usage. 
+Eager to transition technical skills toward Django and production PostgreSQL platforms.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Languages: Python (2.5 yrs), JavaScript, SQL (Basic), HTML/CSS
+- Web Frameworks: Flask, FastAPI (Basic)
+- Databases: MongoDB, Redis, SQLite
+- Developer Tools: Git, GitHub, Docker (Basic), Postman, VS Code
+- Mathematics: Statistical Modeling, Linear Algebra, Probability
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Beacon Digital Labs | Boston, MA
+Junior Backend Developer | January 2024 - Present
+- Built and maintained RESTful backend APIs using Flask for a SaaS customer survey web platform.
+- Integrated MongoDB NoSQL database to store user responses, schema-less survey configurations, and dynamic forms.
+- Containerized local development environments using basic Docker setups to streamline onboarding for team members.
+- Wrote basic unit tests using pytest to validate REST API endpoint status codes and payload formats.
+
+Quantitative Metrics Inc. | Boston, MA
+Data Analyst / Python Scripting Intern | June 2022 - December 2023
+- Developed Python utility scripts to parse JSON and CSV files for statistical analysis.
+- Generated automated data visualization plots using Matplotlib and Seaborn for client presentations.
+- Assisted backend team in writing simple Flask endpoints for internal team utilities.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Mathematics (Minor in Computer Science)
+Boston University, Boston, MA | Graduated: May 2022
+Graduated with Honors
+================================================================================

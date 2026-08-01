@@ -1,0 +1,46 @@
+================================================================================
+ISABELLA MARTINEZ
+================================================================================
+Email: isabella.martinez@email.com | Phone: (555) 012-3456
+LinkedIn: linkedin.com/in/isabella-martinez-bi | GitHub: github.com/isabellam-analytics
+Location: Miami, FL
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Analytical Business Data Analyst with 2 years of experience analyzing corporate metrics, 
+building interactive Tableau dashboards, and writing complex SQL queries. Skilled in 
+translating raw business data into actionable executive insights, trend reports, and key 
+performance indicators (KPIs). Expert user of Microsoft Excel and Business Intelligence platforms.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Analytics & BI: Tableau, Power BI, Google Looker Studio, Excel (VLOOKUP, Pivot Tables, Macros)
+- Database & Querying: SQL (SELECT, JOINS, Aggregations, Subqueries), MySQL, PostgreSQL (Querying only)
+- Business Tools: JIRA, Confluence, Salesforce CRM, Google Analytics
+- Competencies: Financial Reporting, Data Cleaning, Requirements Gathering, KPI Analysis
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Summit Commercial Corp | Miami, FL
+Data Analyst | June 2022 - Present
+- Created 15+ automated Tableau and Power BI executive dashboards tracking regional quarterly revenue, sales conversions, and customer churn.
+- Executed SQL queries against relational databases (MySQL, PostgreSQL) to extract and clean large customer transaction datasets.
+- Presented weekly data insights and risk assessment summaries to executive leadership teams.
+- Streamlined monthly finance reporting processes using advanced Excel formulas and VBA macros, saving 12 analyst hours per month.
+
+Beacon Marketing Insights | Miami, FL
+Business Analyst Intern | June 2021 - May 2022
+- Conducted market research and customer segmentation analyses for retail brand campaigns.
+- Cleaned and validated survey datasets containing 50,000+ records in Excel.
+- Drafted user stories and process flow diagrams for internal business operations tools.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Arts in Business Analytics
+University of Miami, Miami, FL | Graduated: May 2022
+GPA: 3.7 / 4.0
+================================================================================

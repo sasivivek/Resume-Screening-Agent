@@ -1,0 +1,48 @@
+================================================================================
+CAROL WILLIAMS
+================================================================================
+Email: carol.williams@email.com | Phone: (555) 456-7890
+LinkedIn: linkedin.com/in/carol-williams-se | GitHub: github.com/carolwilliams
+Location: Seattle, WA
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Accomplished Senior Backend Engineer with 6 years of experience building resilient enterprise 
+software systems. Highly proficient in Python, Django REST Framework, AWS cloud infrastructure, 
+Docker, and Kubernetes orchestration. Proven leader in introducing automated testing standards 
+and optimizing cloud infrastructure costs while sustaining 99.99% system uptime.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Languages & Frameworks: Python, Django, Django REST Framework, FastAPI, SQL
+- Cloud Infrastructure: AWS (EC2, S3, ECS, Lambda, CloudWatch, EKS), Terraform
+- Containers & Orchestration: Docker, Kubernetes, Helm, Kubernetes Operators
+- Databases & Storage: PostgreSQL, Redis, DynamoDB
+- Software Practices: Unit Testing (pytest), CI/CD (GitLab CI), TDD, Agile/Scrum
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+OmniSystems Global | Seattle, WA
+Senior Backend Engineer | January 2021 - Present
+- Led a team of 6 backend engineers building enterprise SaaS services using Python/Django and PostgreSQL.
+- Spearheaded company-wide migration of microservices to Kubernetes clusters on AWS EKS, reducing monthly cloud infrastructure costs by $50,000.
+- Implemented robust suite of REST APIs consuming third-party enterprise integrations and processing 3M+ daily HTTP API calls.
+- Enforced strict code quality standards, achieving and maintaining 95%+ unit test coverage with pytest across all microservice repos.
+- Conducted regular code reviews, mentored junior engineers, and authored comprehensive developer onboarding documentation.
+
+CloudScale Tech | Seattle, WA
+Backend Developer | July 2018 - December 2020
+- Developed scalable Django web applications backed by PostgreSQL databases for e-commerce clients.
+- Optimized database indexing and ORM queries, reducing peak load query execution times from 1.2s to 85ms.
+- Built containerized development environments with Docker Compose, standardizing local developer setups across 4 teams.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Software Engineering
+University of Washington, Seattle, WA | Graduated: June 2018
+Magna Cum Laude | Tau Beta Pi Engineering Honor Society
+================================================================================

@@ -1,0 +1,46 @@
+================================================================================
+FRANK GARCIA
+================================================================================
+Email: frank.garcia@email.com | Phone: (555) 789-0123
+LinkedIn: linkedin.com/in/frankgarcia-fs | GitHub: github.com/frankgarcia-dev
+Location: Austin, TX
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Versatile Full-Stack Software Engineer with 4 years of software development experience, 
+primarily specializing in Node.js, Express, React, and TypeScript, along with 1 year of 
+recent experience using Python for automation scripts and microservices. Experienced in 
+RESTful API construction, Git, and PostgreSQL. Seeking to pivot into Python backend roles.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Primary Languages: JavaScript (ES6+), TypeScript, Node.js (4 yrs), HTML5, CSS3
+- Secondary Languages: Python (1 yr), SQL
+- Frontend: React, Redux, Next.js, Tailwind CSS
+- Backend & Databases: Express.js, Node.js, PostgreSQL, MongoDB
+- DevOps & Tools: Git, GitHub, REST APIs, Jest, Mocha, Webpack, npm
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Velocity Web Solutions | Austin, TX
+Full-Stack Software Engineer | August 2022 - Present
+- Designed and built responsive web applications using React on the frontend and Node.js/Express on the backend.
+- Developed 40+ RESTful API endpoints interfacing with PostgreSQL databases for user authentication and billing systems.
+- Introduced Python scripting over the past year to automate web scraping and periodic system monitoring tasks.
+- Improved frontend rendering efficiency by 25% by refactoring legacy React components and implementing lazy loading.
+
+Bright Code Agency | Austin, TX
+Web Developer | June 2020 - July 2022
+- Created interactive client websites using JavaScript, HTML5, CSS, and Node.js backend services.
+- Managed SQL database schemas in MySQL and PostgreSQL, executing schema updates and query tuning.
+- Collaborated in an Agile Scrum environment with 2-week sprint cycles.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+University of Texas at Austin, Austin, TX | Graduated: May 2020
+================================================================================

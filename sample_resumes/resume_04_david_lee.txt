@@ -1,0 +1,47 @@
+================================================================================
+DAVID LEE
+================================================================================
+Email: david.lee.data@email.com | Phone: (555) 567-8901
+LinkedIn: linkedin.com/in/davidlee-data | GitHub: github.com/davidlee-data
+Location: Chicago, IL
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Detail-oriented Data & Python Software Engineer with 3 years of professional experience 
+building large-scale data processing pipelines and analytical tools. Expert in Python, 
+Pandas, PySpark, and SQL. Familiar with basic Django web application setup, but primarily 
+focused on ETL pipeline optimization, data warehousing, and distributed compute frameworks.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Languages: Python (3 yrs), SQL, Bash, R
+- Frameworks & Libraries: PySpark, Pandas, NumPy, Scikit-Learn, Django (Basic)
+- Data Warehousing & Big Data: Snowflake, Apache Spark, Hadoop, AWS Redshift
+- Version Control & DevOps: Git, GitHub, Docker (Basic), Airflow
+- Databases: MySQL, SQLite, MongoDB
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+DataPulse Analytics | Chicago, IL
+Data Engineer / Python Developer | June 2023 - Present
+- Designed and maintained automated Python data pipelines using Apache Airflow and PySpark to process 5TB+ of raw event logs daily.
+- Built internal Django admin dashboard to monitor ETL workflow execution status and system alerts for data operations team.
+- Optimized PySpark job execution times by 35% through custom partitioning and memory tuning.
+- Developed custom Python scripts to extract, transform, and load structured and semi-structured datasets into Snowflake data warehouse.
+
+Nexus Insights | Chicago, IL
+Junior Python Data Developer | August 2021 - May 2023
+- Implemented Python data extraction scripts using BeautifulSoup and Requests to collect market trend datasets.
+- Created data cleansing and transformation pipelines using Pandas and NumPy, outputting clean reports for business intelligence analysts.
+- Automated daily batch reporting scripts scheduled via Cron jobs on Linux servers.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+University of Illinois Urbana-Champaign (UIUC), Urbana, IL
+Graduated: May 2021
+================================================================================

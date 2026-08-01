@@ -1,0 +1,53 @@
+================================================================================
+DR. LIAM TAYLOR
+================================================================================
+Email: liam.taylor.phd@email.com | Phone: (555) 345-6780
+LinkedIn: linkedin.com/in/drliamtaylor | GitHub: github.com/liamtaylor-systems
+Location: Austin, TX
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Distinguished Executive Engineering Leader & Principal Architect with 12+ years of professional 
+experience in large-scale software engineering, artificial intelligence, and cloud infrastructure. 
+Holds a Ph.D. in Computer Science with focus on Distributed Systems. Expert in Python, 
+Django, microservices design, AWS, Kubernetes, and Machine Learning platforms. Currently serving 
+as VP of Engineering leading 45+ engineers across global engineering organizations.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Languages & Core: Python (12 yrs), C++, Go, Distributed Systems, Algorithms, SQL
+- Architecture & Frameworks: Django, Django REST Framework, FastAPI, PyTorch, TensorFlow
+- Cloud Infrastructure: AWS (EC2, S3, EKS, Lambda, SageMaker), GCP, Terraform, Kubernetes
+- Databases & Queues: PostgreSQL, Redis, Cassandra, Kafka, Elasticsearch
+- Executive Leadership: Technical Strategy, Team Scaling (10 to 50+), Budgeting ($5M+), M&A
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+CloudSphere Systems Inc. | Austin, TX
+Vice President of Engineering | January 2021 - Present
+- Oversee global engineering organization of 45+ software engineers, data scientists, and DevOps specialists.
+- Managed $6.5M annual technology budget and defined architecture standards for multi-tenant AI SaaS platform.
+- Spearheaded company-wide transition to serverless AWS Lambda and Kubernetes, reducing operational overhead by 45%.
+
+HyperScale Technologies | Austin, TX
+Principal Backend Architect | June 2016 - December 2020
+- Architected enterprise Django microservices processing 50M+ daily API events with 99.999% reliability.
+- Optimized PostgreSQL database clusters with multi-region replication handling high concurrency transactions.
+- Published 4 peer-reviewed research papers on distributed data storage and parallel computing.
+
+Apex Software Solutions | San Jose, CA
+Senior Software Engineer / Research Scientist | September 2012 - May 2016
+- Designed Python backend services, distributed cache layers using Redis, and machine learning scoring pipelines.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Ph.D. in Computer Science (Distributed Systems & AI)
+Carnegie Mellon University (CMU), Pittsburgh, PA | Graduated: May 2012
+
+Bachelor of Science in Computer Science
+Massachusetts Institute of Technology (MIT), Cambridge, MA | Graduated: May 2008
+================================================================================

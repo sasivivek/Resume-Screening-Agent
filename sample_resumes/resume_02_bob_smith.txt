@@ -1,0 +1,46 @@
+================================================================================
+BOB SMITH
+================================================================================
+Email: bob.smith.dev@email.com | Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/bobsmith-backend | GitHub: github.com/bobsmith-code
+Location: San Francisco, CA
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Innovative Backend Developer with 4 years of hands-on experience building high-performance 
+web applications and distributed microservices using Python and Flask. Strong expertise 
+in PostgreSQL database architecture, Redis caching, Celery task queues, and CI/CD pipelines. 
+Thrives in fast-paced startup environments delivering scalable backend infrastructure.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Core Technologies: Python (4 yrs), Flask, RESTful API Design, GraphQL
+- Data Management: PostgreSQL, Redis, SQLAlchemy ORM, Alembic migrations
+- Distributed Systems: Celery, RabbitMQ, Asynchronous Programming (asyncio)
+- DevOps & CI/CD: Docker, GitHub Actions, CircleCI, AWS (EC2, S3), Git, Linux
+- Quality Assurance: pytest, mock, postman, TDD methodology
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Streamline Startup Tech | San Francisco, CA
+Backend Software Engineer | August 2021 - Present
+- Architected and built 20+ core REST API services in Python/Flask serving a real-time collaborative workspace app with 80k daily active users.
+- Designed and maintained PostgreSQL schemas; tuned complex SQL queries and implemented Redis caching, boosting database throughput by 65%.
+- Implemented asynchronous background task queue utilizing Celery and Redis to handle 500,000+ daily email notifications and data export jobs.
+- Established end-to-end CI/CD workflows using GitHub Actions and Docker, reducing build-to-production deployment time by 50%.
+- Authored 250+ unit and integration tests using pytest, ensuring zero high-severity bugs in production over 18 consecutive months.
+- Participated in weekly pull request reviews and architectural planning sessions.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Master of Science in Computer Science
+Stanford University, Stanford, CA | Graduated: June 2021
+Specialization: Distributed Systems & Software Engineering
+
+Bachelor of Science in Computer Science
+University of California, Berkeley, CA | Graduated: May 2019
+================================================================================

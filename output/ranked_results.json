@@ -1,0 +1,290 @@
+[
+    {
+        "rank": 1,
+        "name": "ALICE JOHNSON",
+        "file": "sample_resumes/resume_01_alice_johnson.txt",
+        "composite_score": 69.27,
+        "semantic_score": 31.5,
+        "skill_match_score": 88.89,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "django",
+            "git",
+            "github",
+            "postgresql",
+            "python",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "missing_skills": [
+            "rest apis"
+        ],
+        "reasoning": "Ranked #1 with a composite score of 69.3/100. Matched 8/9 required skills (django, git, github, postgresql, python). Key gaps: missing rest apis. Meets experience requirements."
+    },
+    {
+        "rank": 2,
+        "name": "CAROL WILLIAMS",
+        "file": "sample_resumes/resume_03_carol_williams.txt",
+        "composite_score": 61.54,
+        "semantic_score": 28.85,
+        "skill_match_score": 66.67,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "django",
+            "git",
+            "postgresql",
+            "python",
+            "django rest framework",
+            "pytest"
+        ],
+        "missing_skills": [
+            "github",
+            "rest apis",
+            "unittest"
+        ],
+        "reasoning": "Ranked #2 with a composite score of 61.5/100. Matched 6/9 required skills (django, git, postgresql, python, django rest framework). Key gaps: missing github, rest apis, unittest. Meets experience requirements."
+    },
+    {
+        "rank": 3,
+        "name": "DAVID LEE",
+        "file": "sample_resumes/resume_04_david_lee.txt",
+        "composite_score": 60.43,
+        "semantic_score": 26.08,
+        "skill_match_score": 66.67,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "django",
+            "git",
+            "github",
+            "postgresql",
+            "python",
+            "django rest framework"
+        ],
+        "missing_skills": [
+            "rest apis",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #3 with a composite score of 60.4/100. Matched 6/9 required skills (django, git, github, postgresql, python). Key gaps: missing rest apis, pytest, unittest. Meets experience requirements."
+    },
+    {
+        "rank": 4,
+        "name": "FRANK GARCIA",
+        "file": "sample_resumes/resume_06_frank_garcia.txt",
+        "composite_score": 59.53,
+        "semantic_score": 32.17,
+        "skill_match_score": 55.56,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github",
+            "postgresql",
+            "rest apis",
+            "python"
+        ],
+        "missing_skills": [
+            "django",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #4 with a composite score of 59.5/100. Matched 5/9 required skills (git, github, postgresql, rest apis, python). Key gaps: missing django, django rest framework, pytest.... Meets experience requirements."
+    },
+    {
+        "rank": 5,
+        "name": "DR. LIAM TAYLOR",
+        "file": "sample_resumes/resume_12_liam_taylor.txt",
+        "composite_score": 59.15,
+        "semantic_score": 39.54,
+        "skill_match_score": 44.44,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "django",
+            "postgresql",
+            "python",
+            "django rest framework"
+        ],
+        "missing_skills": [
+            "git",
+            "github",
+            "rest apis",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #5 with a composite score of 59.1/100. Matched 4/9 required skills (django, postgresql, python, django rest framework). Key gaps: missing git, github, rest apis.... Meets experience requirements."
+    },
+    {
+        "rank": 6,
+        "name": "KATE BROWN",
+        "file": "sample_resumes/resume_11_kate_brown.txt",
+        "composite_score": 58.8,
+        "semantic_score": 38.68,
+        "skill_match_score": 44.44,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github",
+            "postgresql",
+            "python"
+        ],
+        "missing_skills": [
+            "django",
+            "rest apis",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #6 with a composite score of 58.8/100. Matched 4/9 required skills (git, github, postgresql, python). Key gaps: missing django, rest apis, django rest framework.... Meets experience requirements."
+    },
+    {
+        "rank": 7,
+        "name": "BOB SMITH",
+        "file": "sample_resumes/resume_02_bob_smith.txt",
+        "composite_score": 56.22,
+        "semantic_score": 32.23,
+        "skill_match_score": 44.44,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github",
+            "postgresql",
+            "pytest"
+        ],
+        "missing_skills": [
+            "django",
+            "rest apis",
+            "python",
+            "django rest framework",
+            "unittest"
+        ],
+        "reasoning": "Ranked #7 with a composite score of 56.2/100. Matched 4/9 required skills (git, github, postgresql, pytest). Key gaps: missing django, rest apis, python.... Meets experience requirements."
+    },
+    {
+        "rank": 8,
+        "name": "GRACE KUMAR",
+        "file": "sample_resumes/resume_07_grace_kumar.txt",
+        "composite_score": 54.53,
+        "semantic_score": 36.33,
+        "skill_match_score": 33.33,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github",
+            "rest apis"
+        ],
+        "missing_skills": [
+            "django",
+            "postgresql",
+            "python",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #8 with a composite score of 54.5/100. Matched 3/9 required skills (git, github, rest apis). Key gaps: missing django, postgresql, python.... Meets experience requirements."
+    },
+    {
+        "rank": 9,
+        "name": "EMILY CHEN",
+        "file": "sample_resumes/resume_05_emily_chen.txt",
+        "composite_score": 54.44,
+        "semantic_score": 36.09,
+        "skill_match_score": 33.33,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github",
+            "python"
+        ],
+        "missing_skills": [
+            "django",
+            "postgresql",
+            "rest apis",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #9 with a composite score of 54.4/100. Matched 3/9 required skills (git, github, python). Key gaps: missing django, postgresql, rest apis.... Meets experience requirements."
+    },
+    {
+        "rank": 10,
+        "name": "JAMES WILSON",
+        "file": "sample_resumes/resume_10_james_wilson.txt",
+        "composite_score": 53.87,
+        "semantic_score": 38.84,
+        "skill_match_score": 77.78,
+        "experience_score": 0.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "django",
+            "git",
+            "github",
+            "postgresql",
+            "python",
+            "django rest framework",
+            "pytest"
+        ],
+        "missing_skills": [
+            "rest apis",
+            "unittest"
+        ],
+        "reasoning": "Ranked #10 with a composite score of 53.9/100. Matched 7/9 required skills (django, git, github, postgresql, python). Key gaps: missing rest apis, unittest. No relevant experience detected."
+    },
+    {
+        "rank": 11,
+        "name": "HENRY ZHANG",
+        "file": "sample_resumes/resume_08_henry_zhang.txt",
+        "composite_score": 49.2,
+        "semantic_score": 31.33,
+        "skill_match_score": 22.22,
+        "experience_score": 100.0,
+        "education_score": 100.0,
+        "matched_skills": [
+            "git",
+            "github"
+        ],
+        "missing_skills": [
+            "django",
+            "postgresql",
+            "rest apis",
+            "python",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #11 with a composite score of 49.2/100. Matched 2/9 required skills (git, github). Key gaps: missing django, postgresql, rest apis.... Meets experience requirements."
+    },
+    {
+        "rank": 12,
+        "name": "ISABELLA MARTINEZ",
+        "file": "sample_resumes/resume_09_isabella_martinez.txt",
+        "composite_score": 41.02,
+        "semantic_score": 31.73,
+        "skill_match_score": 11.11,
+        "experience_score": 66.67,
+        "education_score": 100.0,
+        "matched_skills": [
+            "postgresql"
+        ],
+        "missing_skills": [
+            "django",
+            "git",
+            "github",
+            "rest apis",
+            "python",
+            "django rest framework",
+            "pytest",
+            "unittest"
+        ],
+        "reasoning": "Ranked #12 with a composite score of 41.0/100. Matched 1/9 required skills (postgresql). Key gaps: missing django, git, github.... Experience partially meets requirements (67%)."
+    }
+]

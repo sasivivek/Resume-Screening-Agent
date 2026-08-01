@@ -1,0 +1,55 @@
+================================================================================
+KATE BROWN
+================================================================================
+Email: kate.brown.dev@email.com | Phone: (555) 234-5679
+LinkedIn: linkedin.com/in/katebrown-dev | GitHub: github.com/katebrown-code
+Location: Austin, TX
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Enthusiastic Career Changer and recent Software Engineering Bootcamp graduate with 8 years 
+of proven leadership experience in Digital Marketing Management. Combines strong cross-functional 
+communication, project management, and business acumen with technical skills in Python, 
+Flask, HTML/CSS, SQL, and basic REST API design. Eager to grow as a backend developer.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Software Development: Python, Flask, HTML5, CSS3, JavaScript (Basic), SQL
+- Tools & Databases: Git, GitHub, SQLite, Postman, VS Code, Heroku
+- Professional Competencies: Team Leadership, Agile Project Management, Stakeholder Communication
+
+--------------------------------------------------------------------------------
+SOFTWARE ENGINEERING BOOTCAMP PROJECTS
+--------------------------------------------------------------------------------
+Full-Stack Python Developer Certificate
+General Assembly Software Engineering Bootcamp | Oct 2023 - Feb 2024 (500+ Hours)
+
+Featured Project: TaskTracker Backend (Python, Flask, SQLite)
+- Designed a lightweight REST API using Flask and SQLAlchemy to manage task lists and categories.
+- Built user registration and password hashing routines using Werkzeug security modules.
+- Created interactive frontend templates using HTML5 and Jinja2 styling.
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Elevation Marketing Agency | Austin, TX
+Digital Marketing Manager | March 2018 - September 2023
+- Managed a team of 5 marketing specialists executing digital campaigns for B2B tech clients with $1.5M annual budget.
+- Analyzed campaign performance metrics using Google Analytics and Excel, increasing lead conversion rates by 28%.
+- Led cross-functional product launches collaborating closely with corporate leadership and creative designers.
+
+Beacon Brand Solutions | Austin, TX
+Marketing Specialist | June 2015 - February 2018
+- Coordinated email marketing initiatives, social media strategies, and content creation for regional client accounts.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Certificate in Software Engineering
+General Assembly Bootcamp, Remote | Completed: February 2024
+
+Bachelor of Arts in Communication
+University of Texas at Austin, Austin, TX | Graduated: May 2015
+================================================================================

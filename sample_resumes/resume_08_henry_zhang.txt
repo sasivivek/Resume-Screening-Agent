@@ -1,0 +1,46 @@
+================================================================================
+HENRY ZHANG
+================================================================================
+Email: henry.zhang@email.com | Phone: (555) 901-2345
+LinkedIn: linkedin.com/in/henryzhang-frontend | GitHub: github.com/henryzhang-ui
+Location: New York, NY
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Creative Frontend UI/UX Engineer with 3 years of professional experience crafting intuitive, 
+responsive web applications. Expert in React.js, Angular, TypeScript, Redux, and modern 
+CSS design systems. Passionate about web accessibility (WCAG), micro-animations, pixel-perfect 
+UI layouts, and client-side performance optimization.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- UI Frameworks & Libraries: React, Angular, Vue.js, Redux Toolkit, RxJS
+- Frontend Languages: TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass/SCSS
+- Styling & Components: Tailwind CSS, Material UI, Bootstrap, Styled Components
+- Build Tools & Testing: Webpack, Vite, npm, Jest, React Testing Library, Cypress
+- Workflow & Tools: Figma, Adobe XD, Git, GitHub, Storybook
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+PixelCraft Media | New York, NY
+Frontend Developer | July 2023 - Present
+- Built modular single-page React applications (SPAs) with TypeScript, increasing page load speed by 35%.
+- Implemented accessible design system components in Storybook adopted across 5 product design teams.
+- Integrated RESTful backend endpoints provided by API engineering teams using Axios and React Query.
+- Conducted cross-browser rendering tests and resolved layout discrepancies across Chrome, Safari, and Firefox.
+
+Vanguard Interactive | New York, NY
+UI Web Developer | August 2021 - June 2023
+- Developed enterprise client portal user interfaces using Angular 12 and RxJS.
+- Collaborated with UI/UX designers to translate Figma mockups into pixel-perfect HTML/CSS layouts.
+- Wrote unit tests for UI components using Jest, achieving 85% component test coverage.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+New York University (NYU), New York, NY | Graduated: May 2021
+================================================================================

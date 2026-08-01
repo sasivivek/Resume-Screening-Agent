@@ -1,0 +1,48 @@
+================================================================================
+ALICE JOHNSON
+================================================================================
+Email: alice.johnson@email.com | Phone: (555) 234-5678
+LinkedIn: linkedin.com/in/alicejohnson-dev | GitHub: github.com/alicejohnson
+Location: Atlanta, GA
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Results-driven Backend Engineer with 5 years of experience specializing in Python, 
+Django, and cloud-native architecture. Proven track record of designing scalable REST 
+APIs and high-throughput microservices handling millions of daily requests. Adept in 
+PostgreSQL database optimization, Docker containerization, and AWS cloud deployment.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Languages: Python, SQL, JavaScript (ES6), HTML/CSS
+- Frameworks: Django, Django REST Framework, FastAPI, Flask
+- Databases: PostgreSQL, Redis, MySQL
+- Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Git, GitHub Actions, CI/CD
+- Testing & Tools: pytest, unittest, Postman, JIRA, Linux
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Apex Cloud Solutions | Atlanta, GA
+Senior Backend Developer | March 2023 - Present
+- Engineered high-throughput REST APIs using Django REST Framework for enterprise multi-tenant analytics dashboard serving 150,000+ active monthly users.
+- Optimized legacy PostgreSQL queries and indexed database tables, reducing median API latency by 42% and peak CPU usage by 30%.
+- Integrated AWS S3 for secure media storage and implemented Celery with Redis for asynchronous background report generation.
+- Containerized application microservices using Docker and established CI/CD pipelines via GitHub Actions, decreasing deployment turnaround from days to 15 minutes.
+
+NexTech Innovations | Atlanta, GA
+Software Developer | June 2020 - February 2023
+- Developed Python backend services and RESTful endpoints using Django for a fintech transaction processing platform.
+- Wrote robust suite of 300+ unit and integration tests using pytest, maintaining 92% automated test coverage across core modules.
+- Managed PostgreSQL database schemas, automated data migration scripts, and tuned complex SQL join queries.
+- Collaborated with frontend team in Agile sprints to define REST API contracts and OpenAPI/Swagger documentation.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+Georgia Institute of Technology, Atlanta, GA | Graduated: May 2020
+GPA: 3.8 / 4.0 | Dean's List (All Semesters)
+================================================================================

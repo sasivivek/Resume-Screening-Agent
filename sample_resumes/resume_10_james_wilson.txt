@@ -1,0 +1,49 @@
+================================================================================
+JAMES WILSON
+================================================================================
+Email: james.wilson.cs@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/jameswilson-cs | GitHub: github.com/jameswilson-dev
+Location: Austin, TX
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Highly motivated Computer Science fresh graduate (May 2024) with a strong foundation in 
+software development fundamentals, object-oriented design, and algorithms. Demonstrates 
+hands-on project experience with Python, Django, REST APIs, PostgreSQL, and Git through 
+a summer software engineering internship and extensive university web application projects.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Programming Languages: Python, C++, Java, JavaScript, SQL
+- Frameworks & Libraries: Django, Django REST Framework, Flask, HTML/CSS
+- Databases: PostgreSQL, SQLite
+- Developer Tools: Git, GitHub, Docker (Basic), VS Code, Linux, Pytest, Postman
+
+--------------------------------------------------------------------------------
+TECHNICAL INTERNSHIP EXPERIENCE
+--------------------------------------------------------------------------------
+TechStart Solutions | Austin, TX
+Software Engineering Intern | May 2023 - August 2023
+- Assisted backend engineering team in building RESTful endpoints using Django REST Framework for internal employee management portal.
+- Implemented PostgreSQL database migrations and wrote unit test cases using pytest covering 80%+ of new code submissions.
+- Participated in daily Agile standups, code reviews, and sprint planning sessions with senior developers.
+
+--------------------------------------------------------------------------------
+ACADEMIC & PERSONAL PROJECTS
+--------------------------------------------------------------------------------
+E-Commerce API Service (Python, Django DRF, PostgreSQL, Docker)
+- Developed a complete backend REST API for an online retail app supporting product search, cart operations, and JWT user authentication.
+- Configured PostgreSQL database models, written custom ORM queries, and deployed application locally via Docker container.
+
+Campus Event Finder Web App (Python, Flask, SQLite, Bootstrap)
+- Built interactive campus event search web app used by 400+ university students during senior design showcase.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Computer Science
+Texas A&M University, College Station, TX | Graduated: May 2024
+GPA: 3.65 / 4.0 | Coursework: Data Structures & Algorithms, Database Systems, Web Dev, OS
+================================================================================

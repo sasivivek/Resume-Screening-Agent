@@ -1,0 +1,46 @@
+================================================================================
+GRACE KUMAR
+================================================================================
+Email: grace.kumar@email.com | Phone: (555) 890-1234
+LinkedIn: linkedin.com/in/gracekumar-java | GitHub: github.com/gracekumar
+Location: Dallas, TX
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Experienced Enterprise Java Backend Engineer with 5 years of experience building secure, 
+high-performance enterprise web applications using Java 17, Spring Boot, and Oracle Database. 
+Proficient in microservices architecture, REST APIs, Maven, and JUnit testing. Solid background 
+in software engineering principles, though looking to leverage enterprise background in new stacks.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- Core Technologies: Java (EE, 11, 17), Spring Boot, Spring MVC, Spring Data JPA
+- Databases: Oracle Database, MySQL, SQL Server, Hibernate ORM
+- Middleware & Tools: Apache Kafka, REST APIs, SOAP Web Services, Maven, Gradle
+- Testing: JUnit 5, Mockito, Postman, SonarQube
+- Environments: Linux, Git, Jenkins, WebLogic, Tomcat
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+--------------------------------------------------------------------------------
+Apex Financial Tech | Dallas, TX
+Senior Java Developer | February 2022 - Present
+- Developed high-availability banking transaction microservices in Java 17 and Spring Boot serving 500,000+ daily banking operations.
+- Designed database tables, triggers, and stored procedures in Oracle DB to process complex multi-currency transactions.
+- Written automated unit test suites using JUnit 5 and Mockito, ensuring 88% coverage across enterprise modules.
+- Integrated Apache Kafka messaging queues for real-time fraud alert notifications across distributed core services.
+
+Pinnacle Systems | Dallas, TX
+Java Software Engineer | June 2019 - January 2022
+- Maintained legacy Java EE backend services for healthcare claims processing applications.
+- Created Spring MVC REST endpoints to expose patient records to external client portals.
+- Managed build configurations using Maven and managed continuous integration builds on Jenkins servers.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Science in Information Technology
+University of Texas at Dallas, Richardson, TX | Graduated: May 2019
+================================================================================
