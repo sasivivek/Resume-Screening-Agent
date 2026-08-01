@@ -113,41 +113,7 @@ The agent uses a **4-signal weighted composite score** (detailed in [scoring_met
 
 **Composite Score** = (Semantic x 0.40) + (Skills x 0.30) + (Experience x 0.15) + (Education x 0.15)
 
-## Project Structure
 
-```
-resume_screening_agent/
-├── main.py                  # CLI entry point (the agent)
-├── config.py                # Data models, weights, configuration
-├── resume_parser.py         # Resume parsing (LLM + regex fallback)
-├── jd_parser.py             # JD parsing (LLM + regex fallback)
-├── scorer.py                # 4-signal scoring engine
-├── ranker.py                # Ranking + reasoning generation
-├── utils.py                 # File I/O, formatting, display
-├── requirements.txt         # Pinned dependencies
-├── .env.example             # API key template
-├── scoring_method.md        # Detailed scoring methodology
-├── sample_jd/
-│   └── jd.txt               # Sample JD (Python Backend Developer)
-├── sample_resumes/          # 12 sample resumes (varied quality)
-│   ├── resume_01_alice_johnson.txt    # Strong match
-│   ├── resume_02_bob_smith.txt        # Strong match
-│   ├── resume_03_carol_williams.txt   # Strong match
-│   ├── resume_04_david_lee.txt        # Medium match
-│   ├── resume_05_emily_chen.txt       # Medium match
-│   ├── resume_06_frank_garcia.txt     # Medium match
-│   ├── resume_07_grace_kumar.txt      # Weak match (Java dev)
-│   ├── resume_08_henry_zhang.txt      # Weak match (Frontend)
-│   ├── resume_09_isabella_martinez.txt # Weak match (Data analyst)
-│   ├── resume_10_james_wilson.txt     # Edge case (Fresh grad)
-│   ├── resume_11_kate_brown.txt       # Edge case (Career changer)
-│   └── resume_12_liam_taylor.txt      # Edge case (Overqualified)
-├── output/                  # Generated output
-│   ├── ranked_results.json
-│   └── ranked_results.csv
-└── tests/
-    └── test_agent.py        # 19 unit tests
-```
 
 ## Design Choices & Tradeoffs
 
