@@ -16,36 +16,7 @@ An intelligent, NLP-powered AI agent that parses resumes, scores them against a 
 - **Batch Processing**: Processes 10+ resumes in a single run
 - **Dual Output**: Exports results to both JSON and CSV formats
 
-## Architecture
 
-```
-                    INPUT
-         +-----------+-----------+
-         |                       |
-    [ Resumes ]          [ Job Description ]
-    (PDF/DOCX/TXT)          (TXT/PDF)
-         |                       |
-         v                       v
-  [ Resume Parser ]       [ JD Parser ]
-  (LLM or Regex)        (LLM or Regex)
-         |                       |
-         +----> [ Scorer ] <-----+
-                    |
-          +---------+---------+----------+
-          |         |         |          |
-     Semantic   Skill     Experience  Education
-     Sim (40%)  Match(30%)  (15%)      (15%)
-          |         |         |          |
-          +----> [ Composite Score ] <---+
-                    |
-              [ Ranker ]
-          (Sort + Reasoning)
-                    |
-         +----------+----------+
-         |          |          |
-      [ CLI ]   [ JSON ]   [ CSV ]
-      Table      Output     Output
-```
 
 ## Quick Start
 
